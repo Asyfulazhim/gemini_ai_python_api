@@ -1,1 +1,2 @@
-# gemini_ai_python_api
+# geminiai_python_api
+Generative Ai and LLMs
